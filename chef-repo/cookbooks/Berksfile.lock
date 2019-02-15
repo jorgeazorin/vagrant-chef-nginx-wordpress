@@ -1,0 +1,7 @@
+DEPENDENCIES
+  libarchive
+  mysql
+
+GRAPH
+  libarchive (2.1.0)
+  mysql (8.5.1)
